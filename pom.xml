@@ -6,7 +6,7 @@
 
     <groupId>com.insightsystems.dal.cisco.CP8831</groupId>
     <artifactId>Cisco-CP8831</artifactId>
-    <version>0.1</version>
+    <version>0.2</version>
 
 	<properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
